@@ -1,0 +1,155 @@
+body{
+    margin: 0vh;
+    padding: 0vh;
+   
+}
+#imagem1{
+    height: 350px;
+    width: 350px;
+    border: solid #a65d53 10px;
+}
+
+.entrada{
+    margin: 0vh;
+    padding: 0vh;
+    display: flex;
+    background-color:#61290e;
+    width: 100%;
+    height: 700px;
+}
+#capa{
+    margin: 0px auto;
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    font-size:xx-large;
+    color: #fffdc0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    
+}
+
+
+.introdução{
+background-color: #805841;
+}
+
+#imagemin{
+    width: 325px;
+    height: 325px;
+    border: #79451d solid 5px;
+
+}
+
+#carateristicas{
+    width: 600px;
+    color: #fef7e1;
+    font-size: x-large;
+}
+
+.introdução1{
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+.localização{
+    background-color: #693726;
+}
+
+#textLo{
+    margin: 0px;
+    padding: 0px;
+    width: 500px;
+    font-size:x-large;
+    color: #e9ffe1;
+}
+
+#seco{
+    margin: 30px;
+    width: 350px;
+    border: solid #f7e6a6 5px;
+}
+
+.localização1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+.culinaria{
+    background-color: #987f69;
+}
+
+#prato{
+    width: 500px;
+    margin: 40px;
+    border: solid #57342d 5px;
+}
+
+#textculi{
+    width: 500px;
+    margin: 30px;
+    font-size: x-large;
+    color: #f4f4dd;
+}
+
+.culinaria1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+
+
+.medicinal{
+    background-color: #4f2621;
+}
+
+.medicinal1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#imgmedi{
+    width: 400px;
+    margin: 30px;
+    border: solid #977e77 5px;
+
+}
+
+#usomedi{
+    width: 400px;
+    font-size: x-large;
+    color: #fbf6d0;
+}
+
+
+.riscos{
+    background-color: #926d40;
+}
+
+.riscos1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#imgriscos{
+    width: 550px;
+    margin: 20px;
+    border: solid #361f00 5px;
+}
+
+#textriscos{
+    width: 400px;
+    font-size: x-large;
+    color: #faedd9;
+}
