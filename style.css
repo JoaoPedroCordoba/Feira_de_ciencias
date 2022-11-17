@@ -36,6 +36,7 @@ background-color: #805841;
 }
 
 #imagemin{
+    margin: 30px;
     width: 325px;
     height: 325px;
     border: #79451d solid 5px;
@@ -80,6 +81,7 @@ background-color: #805841;
     justify-content: space-around;
     align-items: center;
 }
+
 
 
 
